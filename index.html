@@ -1,12 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Michael Dziegiel - Resume</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Michael Dziegiel — Resume</title>
+  <style>
+    :root { --maxw: 1100px; }
+    body { margin:0; font-family: system-ui, Segoe UI, Roboto, Arial, sans-serif; background:#0b0c0e; color:#e7e9ee; }
+    header { max-width:var(--maxw); margin:0 auto; padding:20px 16px; display:flex; align-items:center; justify-content:space-between; }
+    h1 { font-size:20px; margin:0; font-weight:600; }
+    .btn { display:inline-block; padding:10px 14px; border-radius:10px; background:#1f6feb; color:#fff; text-decoration:none; font-weight:600; }
+    .wrap { max-width:var(--maxw); margin:0 auto; padding:0 16px 24px; }
+    .pdf { width:100%; height: calc(100vh - 96px); border:none; border-radius:12px; box-shadow: 0 4px 24px rgba(0,0,0,.35); background:#1a1b1e; }
+    footer { max-width:var(--maxw); margin:8px auto 20px; padding:0 16px; font-size:12px; color:#b7bcc8; }
+    @media (max-width: 640px) {
+      .pdf { height: calc(100vh - 120px); }
+      header { flex-direction:column; gap:12px; align-items:flex-start; }
+    }
+  </style>
 </head>
 <body>
-  <h1>Michael Dziegiel</h1>
-  <p>Senior Network Administrator</p>
-  <p><a href="Michael_Dziegiel_Resume.pdf">Download PDF</a></p>
+  <header>
+    <h1>Michael Dziegiel — Senior Network Administrator</h1>
+    <a class="btn" href="resume.pdf" download>Download PDF</a>
+  </header>
+
+  <div class="wrap">
+    <!-- Inline viewer (iframe is the most compatible). If the browser can't embed, the link above still works. -->
+    <iframe class="pdf" src="resume.pdf#view=FitH"></iframe>
+  </div>
+
+  <footer>
+    Having trouble viewing? <a href="resume.pdf" style="color:#9ec1ff">Open the PDF directly</a>.
+  </footer>
 </body>
 </html>
