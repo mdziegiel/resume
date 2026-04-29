@@ -30,32 +30,38 @@ https://mdziegiel.github.io/resume
 
 ```text
 resume/
-├── MichaelRDzieigelResume.pdf   # Current resume (PDF format)
+├── MichaelRDzieigelResume.pdf   # Current resume PDF
 ├── index.html                   # Web viewer for resume
 ├── favicon.png                  # Site favicon
 ├── CNAME                        # Custom domain configuration
 └── README.md                    # Repository documentation
-🔄 Version History
-Latest Update: April 2026
-Resume is regularly updated to reflect ongoing professional growth, certifications, and enterprise IT experience
-📫 Contact Information
+```
+
+## 🔄 Version History
+
+- **Latest Update:** April 2026
+- Resume is regularly updated to reflect ongoing professional growth, certifications, and enterprise IT experience
+
+## 📫 Contact Information
 
 For inquiries or professional opportunities, please refer to the contact details listed in the resume or connect via:
 
-GitHub: https://github.com/mdziegiel
-LinkedIn: Add your LinkedIn URL here
-Portfolio: https://mdziegiel.github.io/portfolio
-📝 Format Notes
+- **GitHub:** https://github.com/mdziegiel
+- **LinkedIn:** https://www.linkedin.com/in/mdziegiel/
+- **Portfolio:** https://mdziegiel.github.io/portfolio
+
+## 📝 Format Notes
 
 This resume is maintained in PDF format to ensure:
 
-Consistent formatting across all platforms
-ATS (Applicant Tracking System) compatibility
-Professional presentation for recruiters and hiring managers
-📄 License
+- Consistent formatting across all platforms
+- ATS compatibility
+- Professional presentation for recruiters and hiring managers
+
+## 📄 License
 
 © 2026 Michael Dziegiel. All rights reserved.
 
 ---
 
-*Hosted on GitHub Pages | Updated regularly*
+*Hosted via GitHub Pages + Custom Domain | Updated regularly*
