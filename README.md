@@ -47,7 +47,7 @@ resume/
 For inquiries or professional opportunities, please refer to the contact details listed in the resume or connect via:
 
 - **GitHub:** https://github.com/mdziegiel
-- **LinkedIn:** https://www.linkedin.com/in/mdziegiel/
+- **LinkedIn:** https://www.linkedin.com/in/mdziegiel
 - **Portfolio:** https://mdziegiel.github.io/portfolio
 
 ## 📝 Format Notes
