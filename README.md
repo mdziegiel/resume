@@ -6,7 +6,7 @@ This repository hosts my current professional resume, showcasing my experience a
 
 ## 📄 Resume
 
-**Current Version:** [MichaelRDzieigelResume.pdf](./MichaelRDzieigelResume.pdf)
+**Current Version:** [MichaelDzieigelResume.pdf](./MichaelDzieigelResume.pdf)
 
 ## 🚀 Live Access
 
@@ -30,7 +30,7 @@ https://mdziegiel.github.io/resume
 
 ```text
 resume/
-├── MichaelRDzieigelResume.pdf   # Current resume PDF
+├── MichaelDzieigelResume.pdf   # Current resume PDF
 ├── index.html                   # Web viewer for resume
 ├── favicon.png                  # Site favicon
 ├── CNAME                        # Custom domain configuration
